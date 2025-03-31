@@ -1,1 +1,1 @@
-Sample Travel Management System using Python and Django as the Framework.
+Sample Travel Management System using Python and Django as the Framework
